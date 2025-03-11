@@ -27,4 +27,5 @@ This project implements a **binary counter** using **Arduino and LEDs**.
 
 ## 📷 Display Screenshots
 ![Lab 2 Display Outcome (Part A)](https://github.com/user-attachments/assets/c5c53406-b82e-4b30-a357-83972eff5342)
+
 ![Lab 2 Display Outcome (Part B)](https://github.com/user-attachments/assets/25580c93-021c-4242-81a7-1788544be529)
