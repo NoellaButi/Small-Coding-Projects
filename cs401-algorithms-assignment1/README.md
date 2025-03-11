@@ -1,4 +1,4 @@
-# CS401 Assignment 1 - Soil Water Drainage 🌱💧
+# Soil Water Drainage 🌱💧
 
 This project implements the **Weighted Quick Union algorithm** to determine if **water drains through a soil grid**.
 
