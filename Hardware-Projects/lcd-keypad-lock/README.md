@@ -29,12 +29,5 @@ This project is a **digital lock system** using an **LCD display, Keypad, and LE
 4. If correct, the **Green LED** lights up; if incorrect, the **Red LED** blinks.
 
 ## 📷 Circuit Diagram
-![LCD Setup](LCD.jpg)
+![LCD](https://github.com/user-attachments/assets/3a10782b-a9f6-4453-984b-c91d6ecb8838)
 
----
-
-### **🎯 Final Steps**
-✅ **Rename and upload your `.ino` file** as `lcd-keypad-lock.ino`.  
-✅ **Upload the image (`LCD.jpg`)** to the project folder.  
-✅ **Add the `README.md` file** for documentation.  
-✅ **Commit and push the changes.** 
