@@ -22,6 +22,7 @@ This project implements a **binary counter** using **Arduino and LEDs**.
 
 ## 🎥 Demonstration Videos
 [Demonstration Video A.zip](https://github.com/user-attachments/files/19199098/Demonstration.Video.A.zip)
+
 [Demonstration Video B.zip](https://github.com/user-attachments/files/19199102/Demonstration.Video.B.zip)
 
 ## 📷 Display Screenshots
