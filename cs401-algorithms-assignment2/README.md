@@ -1,18 +1,19 @@
-## Getting Started
+# Convex Hull with Graham’s Scan 🏗️
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project implements **Graham’s Scan algorithm** to compute the **convex hull** of a set of points.
 
-## Folder Structure
+## 📌 Problem Description
+The **convex hull** of `N` points is the **smallest convex polygon** that encloses all the points.  
+This project:
+- Uses **Graham’s Scan** to compute the convex hull.
+- Provides a **GUI (`ConvexHullGUI.java`)** that allows users to **click to create points** and visualize the convex hull.
 
-The workspace contains two folders by default, where:
+## 🛠️ Components
+- **`ConvexHullBuilder.java`** → Implements **Graham’s Scan Algorithm** to compute the convex hull.
+- **`ConvexHullGUI.java`** → GUI for **plotting points** and **drawing convex hulls** dynamically.
+- **`App.java`** → Entry point (not required for GUI but included for extensibility).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🔧 How to Run
+1. **Compile the Java files**:
+   ```bash
+   javac -cp .:lib/algs4.jar src/*.java
